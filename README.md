@@ -40,4 +40,4 @@ This project demonstrates practical implementation of core network security conc
 This project provides hands-on experience in securing communication using encryption and network protection techniques.
 
 ## Author
-Muhannad Fayez Alamri
+Muhannad Alamri
